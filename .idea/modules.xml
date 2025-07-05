@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SistemaBaicodeRegistrodeEstudiantes.iml" filepath="$PROJECT_DIR$/.idea/SistemaBaicodeRegistrodeEstudiantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registro_estudiante/registro_estudiante.iml" filepath="$PROJECT_DIR$/registro_estudiante/registro_estudiante.iml" />
+    </modules>
+  </component>
+</project>
